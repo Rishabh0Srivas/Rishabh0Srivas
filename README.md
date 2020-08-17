@@ -2,7 +2,7 @@
 
 ## I'm a undergraduate student, Programmer and a Developer for fun
 
-- 🔭 I’m currently working on a just some random projects
+- 🔭 I’m currently working on just some random projects
 - 🍀 I’m currently learning everything 
 - 🕶  I wanna contribute to Open Source projects
 - ⚙️ Hobbies: I love to play games, hike and do some little projects
