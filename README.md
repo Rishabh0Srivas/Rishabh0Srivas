@@ -7,6 +7,8 @@
 - 🕶  I wanna contribute to Open Source projects
 - ⚙️ Hobbies: I love to play games, hike and do some little projects
 
+<br />
+
  ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rishabh0Srivas Spotify Playing" width="350" />](https://open.spotify.com/user/317r24y4hsdifx2eeo2texii7wa4?si=_p9TLuhMR9G-apssikrRaQ) 
 
@@ -20,9 +22,9 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I Use:
 
-<img align="left" alt="Sublime Text" width="26px" src="https://phabricator.kde.org/file/data/zjjgszffe4qakwnexvpc/PHID-FILE-t5xerghky226iprmvfxj/preview-Sublime_New_Icon.png" />] 
+<img align="left" alt="Sublime Text" width="26px" src="https://phabricator.kde.org/file/data/zjjgszffe4qakwnexvpc/PHID-FILE-t5xerghky226iprmvfxj/preview-Sublime_New_Icon.png" />
 <img align="left" alt="Python 3" width="26px" src="https://journeyofthegeekcom.files.wordpress.com/2019/01/python_logo.png" />
 <img align="left" alt="C" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVQqiupe2xA4ZmF_PRMd_XVSJobf1Pe4Uz-A&usqp=CAU" />
 <img align="left" alt="C++" width="26px" src="https://www.pngkit.com/png/detail/534-5342172_c-language-course-c-logo.png" />
