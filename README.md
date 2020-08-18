@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![Rishabh0Srivas's github stats](https://github-readme-stats.sebthedev.vercel.app/api?username=Rishabh0Srivas)](https://github.com/Rishabh0Srivas/github-readme-stats)
+  [![Rishabh0Srivas's github stats](https://github-readme-stats.sebthedev.vercel.app/api?username=Rishabh0Srivas&show_icons=true&hide_border=true)](https://github.com/Rishabh0Srivas/github-readme-stats)
 
 </details> 
 
