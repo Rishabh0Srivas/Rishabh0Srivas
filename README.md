@@ -96,3 +96,9 @@ END_SECTION:activity
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
  -->
+ <details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Rishabh0Srivas's Github Stats" src="https://github-readme-stats-git-master.sebthedev.vercel.app/api?username=Rishabh0Srivas&show_icons=true&hide_border=true" />
+
+</details>
