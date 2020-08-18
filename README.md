@@ -99,7 +99,7 @@ END_SECTION:activity
  <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Rishabh0Srivas's Github Stats" src="github-readme-stats.sebthedev.vercel.app/api?username=Rishabh0Srivas&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rishabh0Srivas's Github Stats" src="github-readme-stats.sebthedev.vercel.app/api?username=Rishabh0Srivas&show_icons=true&hide_border=true&theme=dark" />
 
 </details
 -->
