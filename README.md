@@ -80,7 +80,7 @@ START_SECTION:activity
 4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 END_SECTION:activity
-
+<!--
 </details>
 
 <details>
@@ -101,4 +101,7 @@ END_SECTION:activity
 
   <img align="left" alt="Rishabh0Srivas's Github Stats" src="github-readme-stats.sebthedev.vercel.app/api?username=Rishabh0Srivas&show_icons=true&hide_border=true" />
 
-</details>
+</details
+-->
+
+[![Rishabh0Srivas's github stats](https://github-readme-stats.sebthedev.vercel.app/api?username=Rishabh0Srivas)](https://github.com/Rishabh0Srivas/github-readme-stats)
