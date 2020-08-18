@@ -1,6 +1,6 @@
 ### Hello, I'm Rishabh
 
-## I'm a undergraduate student, Programmer and a Developer for fun
+## I'm a undergraduate student, Programmer and a self claimed Developer for fun
 
 - 🔭 I’m currently working on just some random projects
 - 🍀 I’m currently learning everything 
